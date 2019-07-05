@@ -10,4 +10,4 @@ $ npm install
 $ node bin/main.js
 ```
 
-[examples-link]:   https://raw.githubusercontent.com/nvbn/thefuck/master/example.gif
+[examples-link]:   https://raw.githubusercontent.com/tgunnoe/paygate-cli/master/demo.gif
