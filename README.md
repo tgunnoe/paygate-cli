@@ -7,14 +7,16 @@ A node.js example CLI to interact with the HTTP REST service of [moov-io's Payga
 
 [![gif with examples][examples-link]][examples-link]
 
-# Known issues:
-
-- Originator and receiver editing/deleting isn't complete
-
+# Running
 
 ```
 $ npm install
 $ node bin/main.js
 ```
+
+# Known issues:
+
+- Originator and receiver editing/deleting isn't complete
+
 
 [examples-link]:   https://raw.githubusercontent.com/tgunnoe/paygate-cli/master/demo.gif
